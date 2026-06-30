@@ -1,0 +1,113 @@
+canonical_identifier: bkk:krp/KR5a0267/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0267/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 修真十書雜著捷徑
+  date: '2015-08-28 23:44:00.955722'
+  source:
+    repository: kanripo
+    path: KR5a0267
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0267_000-HFL.yaml, hash: 'sha256:ea79e382deb5ade809fcf447db8a56a16d742507fa1d1912c075398e6b7a9aa2'}
+  - {seq: 1, filename: KR5a0267_001-HFL.yaml, hash: 'sha256:b768c089a869c191a0554285caa4f81ed4df3a5730a04b12c3ef2dad2fed3e47'}
+  - {seq: 2, filename: KR5a0267_002-HFL.yaml, hash: 'sha256:e625ccdccad77d8183226f5d856e00d96968fd3981c5fd3c9e53de01c1a7f04d'}
+  - {seq: 3, filename: KR5a0267_003-HFL.yaml, hash: 'sha256:66144e27ef6f8dc0cf9ec24df2dbee40e6db588b2d6af335973ad78777412e81'}
+  - {seq: 4, filename: KR5a0267_004-HFL.yaml, hash: 'sha256:76c6b2e2899eac63df704451ed834c4a38f4b9db5f900f3a9de6aad3fbabe3c8'}
+  - {seq: 5, filename: KR5a0267_005-HFL.yaml, hash: 'sha256:7d1666c9339d1feede116a75a23708e8c500b1be726cf642a7afa6f6d2a9da9f'}
+  - {seq: 6, filename: KR5a0267_006-HFL.yaml, hash: 'sha256:e6d88ce969bcc1a20de578d32907f5004d030bbad974c648a91df5c0ff3c14e9'}
+  - {seq: 7, filename: KR5a0267_007-HFL.yaml, hash: 'sha256:a0ffceffbfeb7d000f9a471c65dfbe480644317cce6229001215dd5fe3fb947c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5a0267_001-HFL.markers.yaml, hash: 'sha256:0a3de653290fb6ab9cb59405737ef6df7d36f4031dd0826415c5bff074a5190f'}
+  - {seq: 2, role: markers, filename: assets/KR5a0267_002-HFL.markers.yaml, hash: 'sha256:c7fde05aad38d3a3b5926ebf691e6de39358d8c2fad89ac5c23a7cf9b6cb620c'}
+  - {seq: 3, role: markers, filename: assets/KR5a0267_003-HFL.markers.yaml, hash: 'sha256:0ccfacac4cbc76ca8b7cb867c7559398ccebfc087f2c9c8a3ad47fb47a4c4e61'}
+  - {seq: 4, role: markers, filename: assets/KR5a0267_004-HFL.markers.yaml, hash: 'sha256:befb12dc412372a4df0640592659d3a37cb2e7e050618f1a0ef8261e804df279'}
+  - {seq: 5, role: markers, filename: assets/KR5a0267_005-HFL.markers.yaml, hash: 'sha256:8f2a5dad2ef4300c6bc12ed01fd757d1f5ad14f3b75575a566440c03dce83bcb'}
+  - {seq: 6, role: markers, filename: assets/KR5a0267_006-HFL.markers.yaml, hash: 'sha256:965167029b972544c2618c354c6a2dc32d8b778e1d1afd86f16141a3bee42733'}
+  - {seq: 7, role: markers, filename: assets/KR5a0267_007-HFL.markers.yaml, hash: 'sha256:d0ac5f489ff515f10fcfe2b9ad2a98d402675c5f475e29755aafb6e628a4a959'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0267_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 6481
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0267_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 3366
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0267_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 2170
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0267_HFL_004-001a
+    span:
+    - body
+    - 0
+    - 5234
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5a0267_HFL_005-001a
+    span:
+    - body
+    - 0
+    - 1680
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5a0267_HFL_006-001a
+    span:
+    - body
+    - 0
+    - 2072
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5a0267_HFL_007-001a
+    span:
+    - body
+    - 0
+    - 1950
+  label: juan 007
+  type: section
+  level: 1
+hash: sha256:3b590f0f89c72c5e1584eb6161b9ea59a897d4671bc11e787a9c9da7b07a5aa9
